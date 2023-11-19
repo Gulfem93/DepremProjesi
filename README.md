@@ -1,3 +1,3 @@
 # DepremProjesi
 
-[](depremFayHattı.jpg)
+![alt text]depremFayHattı.jpg)
