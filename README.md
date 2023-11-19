@@ -1,3 +1,3 @@
 # DepremProjesi
 
-[]()
+[](depremFayHattı.jpg)
